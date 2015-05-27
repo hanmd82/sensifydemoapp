@@ -1,4 +1,4 @@
-== Sensify Demo App
+# Sensify Demo App
 
 A web application for Internet-of-Things sensors
 
